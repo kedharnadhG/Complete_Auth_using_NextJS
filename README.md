@@ -1,3 +1,6 @@
+# this Next.js app provides you the signup, login, email verification functionalities through the jwt token and mailtrap for email services for demo...
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
